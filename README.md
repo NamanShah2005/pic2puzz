@@ -83,7 +83,7 @@
 
 ## 🙌 Credits
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by Naman Shah
 
 ---
 
