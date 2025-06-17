@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "330033547263",
+    "project_id": "puzzle-ffcc3",
+    "storage_bucket": "puzzle-ffcc3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330033547263:android:c38e5b87df25b5af1e49ca",
+        "android_client_info": {
+          "package_name": "com.nhshah.picturepuzzle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd2wR51E-vchvTTNYW6HXKBeLkRIScf3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
